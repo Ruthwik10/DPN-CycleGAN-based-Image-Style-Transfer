@@ -1,0 +1,6 @@
+numpy==1.23.5          # Numerical computations
+torch==2.0.1           # PyTorch library for deep learning
+torchvision==0.15.2    # Utilities for image processing
+pillow==9.5.0          # Image processing library (PIL)
+matplotlib>=3.7.1      # Data visualization
+scikit-learn>=1.2.2    # Machine learning utilities
